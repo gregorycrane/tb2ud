@@ -306,7 +306,7 @@
 24	ἀλλὰ	ἀλλά	CCONJ	c--------	_	27	cc	_	Ref=38
 25	προσθήκῃ	προσθήκη	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	31	obl	_	Ref=38
 26	θεοῦ	θεός	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	Ref=38
-27	λέγει	λέγω	VERB	v2spie---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=MidPass	3	conj	_	Ref=39
+27	λέγει	λέγω3	VERB	v2spie---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=MidPass	3	conj	_	Ref=39
 28	νομίζει	νομίζω	VERB	v2spie---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=MidPass	27	conj	_	Ref=39
 29	θ'	τε	CCONJ	c--------	_	28	cc	_	Ref=39
 30	ἡμὶν	ἐγώ	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	31	obl	_	Ref=39
@@ -767,7 +767,7 @@
 
 # sent_id = 40
 # text = λέγω γὰρ καὶ τὰ δύσφορ', εἰ τύχοι κατ' ὀρθὸν ἐξελθόντα, πάντ' ἂν εὐτυχεῖν.
-1	λέγω	λέγω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=87
+1	λέγω	λέγω3	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=87
 2	γὰρ	γάρ	ADV	d--------	PartType=Ptcl	1	advmod	_	Ref=87
 3	καὶ	καί	ADV	c--------	_	5	advmod	_	Ref=87
 4	τὰ	ὁ	DET	l-p---na-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	5	det	_	Ref=87
@@ -853,7 +853,7 @@
 
 # sent_id = 46
 # text = λέγοιμ' ἂν οἷ' ἤκουσα τοῦ θεοῦ πάρα.
-1	λέγοιμ'	λέγω	VERB	v1spoa---	Mood=Opt|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=95
+1	λέγοιμ'	λέγω3	VERB	v1spoa---	Mood=Opt|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=95
 2	ἂν	ἄν1	ADV	d--------	PartType=Ptcl	1	advmod	_	Ref=95
 3	οἷ'	οἷος	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	4	obj	_	Ref=95
 4	ἤκουσα	ἀκούω	VERB	v1saia---	Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	1	ccomp	_	Ref=95
@@ -2361,7 +2361,7 @@
 # sent_id = 126
 # text = δίκαι' ἔλεξας·
 1	δίκαι'	δίκαιος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	Ref=280
-2	ἔλεξας	λέγω	VERB	v2saia---	Mood=Ind|Number=Sing|Person=2|Tense=Past|Voice=Act	0	root	_	Ref=280|SpaceAfter=No
+2	ἔλεξας	λέγω3	VERB	v2saia---	Mood=Ind|Number=Sing|Person=2|Tense=Past|Voice=Act	0	root	_	Ref=280|SpaceAfter=No
 3	·	·	PUNCT	u--------	_	2	punct	_	Ref=280
 
 # sent_id = 127
@@ -2387,7 +2387,7 @@
 3	ἐκ	ἐκ	ADP	r--------	_	4	case	_	Ref=282
 4	τῶνδ'	ὅδε	PRON	p-p---ng-	Case=Gen|Gender=Neut|Number=Plur|PronType=Dem	2	nmod	_	Ref=282
 5	ἂν	ἄν1	ADV	d--------	PartType=Ptcl	6	advmod	_	Ref=282
-6	λέγοιμ'	λέγω	VERB	v1spoa---	Mood=Opt|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=282
+6	λέγοιμ'	λέγω3	VERB	v1spoa---	Mood=Opt|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=282
 7	ἁμοὶ	ἁμός	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	8	obj	_	Ref=282
 8	δοκεῖ	δοκέω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	2	acl:relcl	_	Ref=282|SpaceAfter=No
 9	.	.	PUNCT	u--------	_	6	punct	_	Ref=282
@@ -2493,7 +2493,7 @@
 # sent_id = 137
 # text = θανεῖν ἐλέχθη πρός τινων ὁδοιπόρων.
 1	θανεῖν	θνήσκω	VERB	v--ana---	VerbForm=Inf|Voice=Act	2	ccomp	_	Ref=292
-2	ἐλέχθη	λέγω	VERB	v3saip---	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	Ref=292
+2	ἐλέχθη	λέγω3	VERB	v3saip---	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	Ref=292
 3	πρός	πρός	ADP	r--------	_	5	case	_	Ref=292
 4	τινων	τις	DET	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur|PronType=Ind	5	det	_	Ref=292
 5	ὁδοιπόρων	ὁδοίπορος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	1	obl:arg	_	Ref=292|SpaceAfter=No
@@ -3024,7 +3024,7 @@
 5	καὶ	καί	ADV	c--------	_	7	advmod	_	Ref=342
 6	σὲ	σύ	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	Ref=342
 7	χρὴ	χρή	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=342
-8	λέγειν	λέγω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	7	csubj	_	Ref=342
+8	λέγειν	λέγω3	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	7	csubj	_	Ref=342
 9	ἐμοί	ἐγώ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	8	obj	_	Ref=342|SpaceAfter=No
 10	.	.	PUNCT	u--------	_	7	punct	_	Ref=342
 
@@ -3205,7 +3205,7 @@
 3	μ'	ἐγώ	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	obj	_	Ref=358
 4	ἄκοντα	ἀέκων	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	acl:compl	_	Ref=358
 5	προυτρέψω	προτρέπω	VERB	v2saim---	Mood=Ind|Number=Sing|Person=2|Tense=Past|Voice=Mid	0	root	_	Ref=358
-6	λέγειν	λέγω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	Ref=358|SpaceAfter=No
+6	λέγειν	λέγω3	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	Ref=358|SpaceAfter=No
 7	.	.	PUNCT	u--------	_	5	punct	_	Ref=358
 
 # sent_id = 186
@@ -3218,7 +3218,7 @@
 
 # sent_id = 187
 # text = λέγ' αὖθις, ὡς μᾶλλον μάθω.
-1	λέγ'	λέγω	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=359
+1	λέγ'	λέγω3	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=359
 2	αὖθις	αὖθις	ADV	d--------	_	1	advmod	_	Ref=359|SpaceAfter=No
 3	,	,	PUNCT	u--------	_	6	punct	_	Ref=359
 4	ὡς	ὡς	SCONJ	c--------	_	6	mark	_	Ref=359
@@ -3238,7 +3238,7 @@
 1	ἢ	ἤ	CCONJ	c--------	_	3	cc	_	Ref=360
 2	'	̓	PUNCT	u--------	_	1	punct	_	Ref=360|SpaceAfter=No
 3	κπειρᾷ	ἐκπειράομαι	VERB	v2spie---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=MidPass	0	root	_	Ref=360
-4	λέγων	λέγω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	3	advcl	_	Ref=360|SpaceAfter=No
+4	λέγων	λέγω3	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	3	advcl	_	Ref=360|SpaceAfter=No
 5	;	;	PUNCT	u--------	_	3	punct	_	Ref=360
 
 # sent_id = 190
@@ -3336,7 +3336,7 @@
 3	γεγηθὼς	γηθέω	VERB	v-srpamn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	6	advcl	_	Ref=368
 4	ταῦτ'	οὗτος	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	6	obj	_	Ref=368
 5	ἀεὶ	ἀεί	ADV	d--------	_	6	advmod	_	Ref=368
-6	λέξειν	λέγω	VERB	v--fna---	Tense=Fut|VerbForm=Inf|Voice=Act	7	ccomp	_	Ref=368
+6	λέξειν	λέγω3	VERB	v--fna---	Tense=Fut|VerbForm=Inf|Voice=Act	7	ccomp	_	Ref=368
 7	δοκεῖς	δοκέω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=368|SpaceAfter=No
 8	;	;	PUNCT	u--------	_	7	punct	_	Ref=368
 
@@ -3694,7 +3694,7 @@
 6	τοῦδ'	ὅδε	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	7	nmod	7:det	Ref=404
 7	ἔπη	ἔπος	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	16	nsubj	16:nsubj	Ref=404
 8	ὀργῇ	ὀργή	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	9	obl	9:obl	Ref=405
-9	λελέχθαι	λέγω	VERB	v--rne---	VerbForm=Inf|Voice=MidPass	16	ccomp	16:ccomp	Ref=405
+9	λελέχθαι	λέγω3	VERB	v--rne---	VerbForm=Inf|Voice=MidPass	16	ccomp	16:ccomp	Ref=405
 10	καὶ	καί	CCONJ	c--------	_	12	cc	12:cc	Ref=405
 11	τά	ὁ	DET	l-p---nn-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	12	det	12:det	Ref=405
 12	σ'	σός	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	7	conj	7:conj	Ref=405|SpaceAfter=No
@@ -3769,7 +3769,7 @@
 
 # sent_id = 221
 # text = λέγω δ', ἐπειδὴ καὶ τυφλόν μ' ὠνείδισας·
-1	λέγω	λέγω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=412
+1	λέγω	λέγω3	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=412
 2	δ'	δέ	ADV	d--------	PartType=Ptcl	1	advmod	_	Ref=412|SpaceAfter=No
 3	,	,	PUNCT	u--------	_	8	punct	_	Ref=412
 4	ἐπειδὴ	ἐπεί	SCONJ	c--------	_	8	mark	_	Ref=412
@@ -4061,7 +4061,7 @@
 4	αἰνικτὰ	αἰνικτός	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	2	acl:compl	_	Ref=439
 5	κ	καί	CCONJ	c--------	_	6	cc	_	Ref=439|SpaceAfter=No
 6	ἀσαφῆ	ἀσαφής	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	conj	_	Ref=439
-7	λέγεις	λέγω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=439|SpaceAfter=No
+7	λέγεις	λέγω3	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=439|SpaceAfter=No
 8	.	.	PUNCT	u--------	_	7	punct	_	Ref=439
 
 # sent_id = 240
@@ -4178,7 +4178,7 @@
 
 # sent_id = 250
 # text = λέγω δέ σοι·
-1	λέγω	λέγω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=449
+1	λέγω	λέγω3	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=449
 2	δέ	δέ	ADV	d--------	PartType=Ptcl	1	cc	_	Ref=449
 3	σοι	σύ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	1	obj	_	Ref=449|SpaceAfter=No
 4	·	·	PUNCT	u--------	_	1	punct	_	Ref=449
@@ -4415,7 +4415,7 @@
 # text = ὅ τι λέξω δ' ἀπορῶ.
 1	ὅ	ὅς	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	3	obj	_	Ref=485
 2	τι	τις	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	1	advmod	_	Ref=485
-3	λέξω	λέγω	VERB	v1sfia---	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	5	ccomp	_	Ref=485
+3	λέξω	λέγω3	VERB	v1sfia---	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	5	ccomp	_	Ref=485
 4	δ'	δέ	ADV	d--------	PartType=Ptcl	5	cc	_	Ref=485
 5	ἀπορῶ	ἀπορέω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=485|SpaceAfter=No
 6	.	.	PUNCT	u--------	_	5	punct	_	Ref=485
@@ -4679,7 +4679,7 @@
 12	τοὺς	ὁ	DET	l-p---ma-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	Ref=526
 13	λόγους	λόγος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	15	nmod	_	Ref=526
 14	ψευδεῖς	ψευδής	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	13	amod	_	Ref=526
-15	λέγοι	λέγω	VERB	v3spoa---	Mood=Opt|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	acl:relcl	_	Ref=526|SpaceAfter=No
+15	λέγοι	λέγω3	VERB	v3spoa---	Mood=Opt|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	acl:relcl	_	Ref=526|SpaceAfter=No
 16	;	;	PUNCT	u--------	_	3	punct	_	Ref=526
 
 # sent_id = 276
@@ -4862,7 +4862,7 @@
 
 # sent_id = 288
 # text = λέγειν σὺ δεινός, μανθάνειν δ' ἐγὼ κακὸς σοῦ·
-1	λέγειν	λέγω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	3	advcl	3:advcl	Ref=545
+1	λέγειν	λέγω3	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	3	advcl	3:advcl	Ref=545
 2	σὺ	σύ	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Ref=545
 3	δεινός	δεινός	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	Ref=545|SpaceAfter=No
 4	,	,	PUNCT	u--------	_	8	punct	8:punct	Ref=545
@@ -5149,7 +5149,7 @@
 2	γ'	γε	ADV	d--------	PartType=Ptcl	1	advmod	_	Ref=570
 3	οἶσθα	οἶδα	VERB	v2sria---	Mood=Ind|Number=Sing|Person=2|Voice=Act	0	root	_	Ref=570
 4	καὶ	καί	CCONJ	c--------	_	5	cc	_	Ref=570
-5	λέγοις	λέγω	VERB	v2spoa---	Mood=Opt|Number=Sing|Person=2|Tense=Pres|Voice=Act	3	conj	_	Ref=570
+5	λέγοις	λέγω3	VERB	v2spoa---	Mood=Opt|Number=Sing|Person=2|Tense=Pres|Voice=Act	3	conj	_	Ref=570
 6	ἂν	ἄν1	ADV	d--------	PartType=Ptcl	5	advmod	_	Ref=570
 7	εὖ	εὖ	ADV	d--------	_	8	advmod	_	Ref=570
 8	φρονῶν	φρονέω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	3	advcl	_	Ref=570|SpaceAfter=No
@@ -5196,7 +5196,7 @@
 # text = εἰ μὲν λέγει τάδ', αὐτὸς οἶσθ'·
 1	εἰ	εἰ	SCONJ	c--------	_	3	mark	_	Ref=574
 2	μὲν	μέν	ADV	d--------	PartType=Ptcl	7	advmod	_	Ref=574
-3	λέγει	λέγω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	7	advcl	_	Ref=574
+3	λέγει	λέγω3	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	7	advcl	_	Ref=574
 4	τάδ'	ὅδε	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	3	obj	_	Ref=574|SpaceAfter=No
 5	,	,	PUNCT	u--------	_	3	punct	_	Ref=574
 6	αὐτὸς	αὐτός	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	7	advcl:compl	_	Ref=574
@@ -5590,7 +5590,7 @@
 3	ἐσθλὸν	ἐσθλός	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	amod	1:amod	Ref=611
 4	ἐκβαλεῖν	ἐκβάλλω	VERB	v--ana---	VerbForm=Inf|Voice=Act	6	ccomp	6:ccomp	Ref=611
 5	ἴσον	ἴσος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	xcomp	6:xcomp	Ref=611
-6	λέγω	λέγω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	0:root	Ref=611
+6	λέγω	λέγω3	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	0:root	Ref=611
 7	καὶ	καί	CCONJ	c--------	_	11	mark	7.1:mark	Ref=612
 7.1	E7.1	_	_	_	_	_	_	5:advcl	_
 8	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	11:det	Ref=612
@@ -5635,7 +5635,7 @@
 # sent_id = 345
 # text = καλῶς ἔλεξεν εὐλαβουμένῳ πεσεῖν, ἄναξ·
 1	καλῶς	καλός	ADV	d--------	_	2	advmod	_	Ref=616
-2	ἔλεξεν	λέγω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	Ref=616
+2	ἔλεξεν	λέγω3	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	Ref=616
 3	εὐλαβουμένῳ	εὐλαβέομαι	VERB	v-sppemd-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=MidPass	1	advcl	_	Ref=616
 4	πεσεῖν	πίπτω	VERB	v--ana---	VerbForm=Inf|Voice=Act	3	ccomp	_	Ref=616|SpaceAfter=No
 5	,	,	PUNCT	u--------	_	6	punct	_	Ref=616
@@ -5740,7 +5740,7 @@
 4	οὐ	οὐ	ADV	d--------	_	6	advmod:neg	_	Ref=625|SpaceAfter=No
 5	δὲ	δέ	ADV	d--------	PartType=Ptcl	6	cc	_	Ref=625
 6	πιστεύσων	πιστεύω	VERB	v-sfpamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Pass	3	conj	_	Ref=625
-7	λέγεις	λέγω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=625|SpaceAfter=No
+7	λέγεις	λέγω3	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=625|SpaceAfter=No
 8	;	;	PUNCT	u--------	_	7	punct	_	Ref=625
 
 # sent_id = 355
@@ -6436,7 +6436,7 @@
 
 # sent_id = 404
 # text = λέγ', εἰ σαφῶς τὸ νεῖκος ἐγκαλῶν ἐρεῖς.
-1	λέγ'	λέγω	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=702|SpaceAfter=No
+1	λέγ'	λέγω3	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=702|SpaceAfter=No
 2	,	,	PUNCT	u--------	_	8	punct	_	Ref=702
 3	εἰ	εἰ	SCONJ	c--------	_	8	mark	_	Ref=702
 4	σαφῶς	σαφής	ADV	d--------	_	8	advmod	_	Ref=702
@@ -6492,7 +6492,7 @@
 3	ἀφεὶς	ἀφίημι	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	10	advcl	_	Ref=707
 4	σεαυτὸν	σεαυτοῦ	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Ref=707
 5	ὧν	ὅς	PRON	p-p---ng-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	6	obl	_	Ref=707
-6	λέγεις	λέγω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	3	ccomp	_	Ref=707
+6	λέγεις	λέγω3	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	3	ccomp	_	Ref=707
 7	πέρι	περί	ADP	r--------	_	5	case	_	Ref=707
 8	ἐμοῦ	ἐγώ	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	obj	_	Ref=708
 9	'	̓	PUNCT	u--------	_	8	punct	_	Ref=708|SpaceAfter=No
@@ -6675,7 +6675,7 @@
 2	μερίμνης	μέριμνα	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	obj	_	Ref=728
 3	τοῦθ'	οὗτος	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	Ref=728
 4	ὑποστραφεὶς	ὑποστρέφω	VERB	v-sappmn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	5	advcl	_	Ref=728
-5	λέγεις	λέγω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=728|SpaceAfter=No
+5	λέγεις	λέγω3	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=728|SpaceAfter=No
 6	;	;	PUNCT	u--------	_	5	punct	_	Ref=728
 
 # sent_id = 418
@@ -6972,7 +6972,7 @@
 3	ποτε	ποτέ	ADV	d--------	PartType=Ptcl	1	advmod	_	Ref=754
 4	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Ref=755
 5	τούσδε	ὅδε	DET	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	8	det	_	Ref=755
-6	λέξας	λέγω	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	nsubj	_	Ref=755
+6	λέξας	λέγω3	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	nsubj	_	Ref=755
 7	τοὺς	ὁ	DET	l-p---ma-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	Ref=755
 8	λόγους	λόγος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	Ref=755
 9	ὑμῖν	σύ	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	6	iobj	_	Ref=755|SpaceAfter=No
@@ -7165,7 +7165,7 @@
 3	ἂν	ἄν1	ADV	d--------	PartType=Ptcl	6	advmod	6:advmod	Ref=772
 4	καὶ	καί	ADV	c--------	_	5	advmod	5:advmod	Ref=772
 5	μείζονι	μέγας	ADJ	a-s----dc	Case=Dat|Degree=Cmp|Number=Sing	1	amod	1:amod	Ref=772
-6	λέξαιμ'	λέγω	VERB	v1saoa---	Mood=Opt|Number=Sing|Person=1|Voice=Act	0	root	0:root	Ref=773
+6	λέξαιμ'	λέγω3	VERB	v1saoa---	Mood=Opt|Number=Sing|Person=1|Voice=Act	0	root	0:root	Ref=773
 7	ἂν	ἄν1	ADV	d--------	PartType=Ptcl	6	advmod	6:advmod	Ref=773
 8	ἢ	ἤ	CCONJ	c--------	_	9	mark	8.1:mark	Ref=773
 8.1	E8.1	_	_	_	_	_	_	5:advcl	_
@@ -7326,7 +7326,7 @@
 24	καὶ	καί	CCONJ	c--------	_	25	cc	_	Ref=790
 25	δύστηνα	δύστηνος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	21	conj	_	Ref=790
 26	προύφηνεν	προφαίνω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	17	conj	_	Ref=790
-27	λέγων	λέγω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	26	advcl	_	Ref=790|SpaceAfter=No
+27	λέγων	λέγω3	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	26	advcl	_	Ref=790|SpaceAfter=No
 28	,	,	PUNCT	u--------	_	32	punct	_	Ref=790
 29	ὡς	ὡς	SCONJ	c--------	_	32	mark	_	Ref=791
 30	μητρὶ	μήτηρ	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	34	obj	_	Ref=791
@@ -7395,7 +7395,7 @@
 12	τύραννον	τύραννος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	14	nsubj	_	Ref=799
 13	τοῦτον	οὗτος	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	Ref=799
 14	ὄλλυσθαι	ὄλλυμι	VERB	v--pne---	Tense=Pres|VerbForm=Inf|Voice=MidPass	15	ccomp	_	Ref=799
-15	λέγεις	λέγω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	6	root	_	Ref=799|SpaceAfter=No
+15	λέγεις	λέγω3	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	6	root	_	Ref=799|SpaceAfter=No
 16	.	.	PUNCT	u--------	_	3	punct	_	Ref=799
 
 # sent_id = 466
@@ -7782,7 +7782,7 @@
 1	ἢν	ἐάν	SCONJ	c--------	_	3	mark	_	Ref=839
 2	γὰρ	γάρ	ADV	d--------	PartType=Ptcl	10	advmod	_	Ref=839
 3	εὑρεθῇ	εὑρίσκω	VERB	v3sasp---	Mood=Sub|Number=Sing|Person=3	10	advcl	_	Ref=839
-4	λέγων	λέγω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	3	xcomp	_	Ref=839
+4	λέγων	λέγω3	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	3	xcomp	_	Ref=839
 5	σοὶ	σύ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obj	_	Ref=840
 6	ταὔτ'	αὐτός	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Prs	4	obj	_	Ref=840|SpaceAfter=No
 7	,	,	PUNCT	u--------	_	3	punct	_	Ref=840
@@ -7820,7 +7820,7 @@
 2	μὲν	μέν	ADV	d--------	PartType=Ptcl	13	advmod	_	Ref=843
 3	οὖν	οὖν	ADV	d--------	PartType=Ptcl	2	advmod	_	Ref=843
 4	ἔτι	ἔτι	ADV	d--------	_	5	advmod	_	Ref=843
-5	λέξει	λέγω	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	13	advcl	_	Ref=844
+5	λέξει	λέγω3	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	13	advcl	_	Ref=844
 6	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Ref=844
 7	αὐτὸν	αὐτός	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	8	det	_	Ref=844
 8	ἀριθμόν	ἀριθμός	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	Ref=844|SpaceAfter=No
@@ -8348,11 +8348,11 @@
 12	ἀλλ'	ἀλλά	CCONJ	c--------	_	15	cc	15:cc	Ref=917
 13	ἐστὶ	εἰμί	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	cop	15:cop	Ref=917
 14	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	15:det	Ref=917
-15	λέγοντος	λέγω	VERB	v-sppamg-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	10	conj	10:conj	Ref=917|SpaceAfter=No
+15	λέγοντος	λέγω3	VERB	v-sppamg-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	10	conj	10:conj	Ref=917|SpaceAfter=No
 16	,	,	PUNCT	u--------	_	19	punct	19:punct	Ref=917
 17	εἰ	εἰ	SCONJ	c--------	_	19	mark	19:mark	Ref=917
 18	φόβους	φόβος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	19	obj	19:obj	Ref=917
-19	λέγοι	λέγω	VERB	v3spoa---	Mood=Opt|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	advcl	15:advcl	Ref=917|SpaceAfter=No
+19	λέγοι	λέγω3	VERB	v3spoa---	Mood=Opt|Number=Sing|Person=3|Tense=Pres|Voice=Act	15	advcl	15:advcl	Ref=917|SpaceAfter=No
 20	.	.	PUNCT	u--------	_	10	punct	10:punct	Ref=917
 
 # sent_id = 520
@@ -8662,7 +8662,7 @@
 # text = εἰ μὴ λέγω τἀληθές, ἀξιῶ θανεῖν.
 1	εἰ	εἰ	SCONJ	c--------	_	3	mark	_	Ref=944
 2	μὴ	μή	ADV	d--------	_	3	advmod:neg	_	Ref=944
-3	λέγω	λέγω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	6	advcl	_	Ref=944
+3	λέγω	λέγω3	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	6	advcl	_	Ref=944
 4	τἀληθές	ἀληθής	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	Ref=944|SpaceAfter=No
 5	,	,	PUNCT	u--------	_	3	punct	_	Ref=944
 6	ἀξιῶ	ἀξιόω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=944
@@ -8680,7 +8680,7 @@
 7	ὡς	ὡς	ADV	d--------	_	8	advmod	_	Ref=945
 8	τάχος	τάχος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	Ref=945
 9	μολοῦσα	βλώσκω	VERB	v-sapafn-	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	10	advcl	_	Ref=946
-10	λέξεις	λέγω	VERB	v2sfia---	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Voice=Act	0	root	_	Ref=946|SpaceAfter=No
+10	λέξεις	λέγω3	VERB	v2sfia---	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Voice=Act	0	root	_	Ref=946|SpaceAfter=No
 11	;	;	PUNCT	u--------	_	10	punct	_	Ref=946
 
 # sent_id = 545
@@ -8762,7 +8762,7 @@
 6	καὶ	καί	CCONJ	c--------	_	9	cc	_	Ref=954
 7	τί	τίς	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	9	obj	_	Ref=954
 8	μοι	ἐγώ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	9	iobj	_	Ref=954
-9	λέγει	λέγω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	conj	_	Ref=954|SpaceAfter=No
+9	λέγει	λέγω3	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	conj	_	Ref=954|SpaceAfter=No
 10	;	;	PUNCT	u--------	_	3	punct	_	Ref=954
 
 # sent_id = 550
@@ -9106,7 +9106,7 @@
 9	κ	καί	ADV	c--------	_	12	advmod	12:advmod	Ref=986|SpaceAfter=No
 10	εἰ	εἰ	SCONJ	c--------	_	12	mark	12:mark	Ref=986
 11	καλῶς	καλός	ADV	d--------	_	12	advmod	12:advmod	Ref=986
-12	λέγεις	λέγω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	7	advcl	7:advcl	Ref=986|SpaceAfter=No
+12	λέγεις	λέγω3	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	7	advcl	7:advcl	Ref=986|SpaceAfter=No
 13	,	,	PUNCT	u--------	_	12	punct	12:punct	Ref=986
 14	ὀκνεῖν	ὀκνέω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	7	csubj	7:csubj	Ref=986|SpaceAfter=No
 15	.	.	PUNCT	u--------	_	7	punct	7:punct	Ref=986
@@ -9896,7 +9896,7 @@
 6	ἥκιστ'	ἥκιστος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	9	advmod	_	Ref=1053
 7	ἂν	ἄν1	ADV	d--------	PartType=Ptcl	9	advmod	_	Ref=1053
 8	Ἰοκάστη	Ιοκάστη	PROPN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	Ref=1053
-9	λέγοι	λέγω	VERB	v3spoa---	Mood=Opt|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=1053|SpaceAfter=No
+9	λέγοι	λέγω3	VERB	v3spoa---	Mood=Opt|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=1053|SpaceAfter=No
 10	.	.	PUNCT	u--------	_	9	punct	_	Ref=1053
 
 # sent_id = 644
@@ -9916,7 +9916,7 @@
 # text = τόνδ' οὗτος λέγει;
 1	τόνδ'	ὅδε	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	3	obj	_	Ref=1055
 2	οὗτος	οὗτος	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	Ref=1055
-3	λέγει	λέγω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=1055|SpaceAfter=No
+3	λέγει	λέγω3	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=1055|SpaceAfter=No
 4	;	;	PUNCT	u--------	_	3	punct	_	Ref=1055
 
 # sent_id = 646
@@ -10048,7 +10048,7 @@
 6	τὰ	ὁ	DET	l-p---na-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	_	Ref=1066
 7	λῷστά	λωίων	ADJ	a-p---nas	Case=Acc|Degree=Sup|Gender=Neut|Number=Plur	9	obj	_	Ref=1066
 8	σοι	σύ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	iobj	_	Ref=1066
-9	λέγω	λέγω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=1066|SpaceAfter=No
+9	λέγω	λέγω3	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=1066|SpaceAfter=No
 10	.	.	PUNCT	u--------	_	9	punct	_	Ref=1066
 
 # sent_id = 658
@@ -10600,7 +10600,7 @@
 1	ποῖον	ποῖος	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|PronType=Int	2	det	_	Ref=1129
 2	ἄνδρα	ἀνήρ	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	Ref=1129
 3	καὶ	καί	ADV	c--------	_	4	advmod	_	Ref=1129
-4	λέγεις	λέγω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=1129|SpaceAfter=No
+4	λέγεις	λέγω3	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=1129|SpaceAfter=No
 5	;	;	PUNCT	u--------	_	4	punct	_	Ref=1129
 
 # sent_id = 696
@@ -10712,18 +10712,18 @@
 
 # sent_id = 703
 # text = λέγω τι τούτων ἢ οὐ λέγω πεπραγμένον;
-1	λέγω	λέγω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=1140
+1	λέγω	λέγω3	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=1140
 2	τι	τις	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	1	obj	_	Ref=1140
 3	τούτων	οὗτος	PRON	p-p---ng-	Case=Gen|Gender=Neut|Number=Plur|PronType=Dem	2	nmod	_	Ref=1140
 4	ἢ	ἤ	CCONJ	c--------	_	6	cc	_	Ref=1140
 5	οὐ	οὐ	ADV	d--------	_	6	advmod:neg	_	Ref=1140
-6	λέγω	λέγω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	1	conj	_	Ref=1140
+6	λέγω	λέγω3	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	1	conj	_	Ref=1140
 7	πεπραγμένον	πράσσω	VERB	v-srpena-	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=MidPass	6	obj	_	Ref=1140|SpaceAfter=No
 8	;	;	PUNCT	u--------	_	1	punct	_	Ref=1140
 
 # sent_id = 704
 # text = λέγεις ἀληθῆ, καίπερ ἐκ μακροῦ χρόνου.
-1	λέγεις	λέγω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=1141
+1	λέγεις	λέγω3	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=1141
 2	ἀληθῆ	ἀληθής	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	Ref=1141|SpaceAfter=No
 3	,	,	PUNCT	u--------	_	7	punct	_	Ref=1141
 4	καίπερ	καίπερ	ADV	d--------	PartType=Ptcl	7	advmod	_	Ref=1141
@@ -10848,7 +10848,7 @@
 
 # sent_id = 714
 # text = λέγει γὰρ εἰδὼς οὐδέν, ἀλλ' ἄλλως πονεῖ.
-1	λέγει	λέγω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=1151
+1	λέγει	λέγω3	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	Ref=1151
 2	γὰρ	γάρ	ADV	d--------	PartType=Ptcl	1	advmod	_	Ref=1151
 3	εἰδὼς	οἶδα	VERB	v-srpamn-	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	advcl	_	Ref=1151
 4	οὐδέν	οὐδείς	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	3	obj	_	Ref=1151|SpaceAfter=No
@@ -10946,7 +10946,7 @@
 3	τόδ'	ὅδε	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obl:arg	_	Ref=1158
 4	ἥξεις	ἥκω	VERB	v2sfia---	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Voice=Act	0	root	_	Ref=1158
 5	μὴ	μή	ADV	d--------	_	6	advmod:neg	_	Ref=1158
-6	λέγων	λέγω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	4	advcl	_	Ref=1158
+6	λέγων	λέγω3	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	4	advcl	_	Ref=1158
 7	γε	γε	ADV	d--------	PartType=Ptcl	6	advmod	_	Ref=1158
 8	τοὔνδικον	ἔνδικος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	Ref=1158|SpaceAfter=No
 9	.	.	PUNCT	u--------	_	4	punct	_	Ref=1158
@@ -11092,7 +11092,7 @@
 6	εἰμὶ	εἰμί	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=1169
 7	τῷ	ὁ	DET	l-s---nd-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	Ref=1169
 8	δεινῷ	δεινός	ADJ	a-s---nd-	Case=Dat|Gender=Neut|Number=Sing	6	obl	_	Ref=1169
-9	λέγειν	λέγω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	8	advcl	_	Ref=1169|SpaceAfter=No
+9	λέγειν	λέγω3	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	8	advcl	_	Ref=1169|SpaceAfter=No
 10	.	.	PUNCT	u--------	_	6	punct	_	Ref=1169
 
 # sent_id = 736
@@ -13176,7 +13176,7 @@
 2	,	,	PUNCT	u--------	_	1	punct	_	Ref=1419
 3	τί	τίς	DET	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	8	det	_	Ref=1419
 4	δῆτα	δῆτα	ADV	d--------	PartType=Ptcl	3	advmod	_	Ref=1419
-5	λέξομεν	λέγω	VERB	v1pfia---	Mood=Ind|Number=Plur|Person=1|Tense=Fut|Voice=Act	0	root	_	Ref=1419
+5	λέξομεν	λέγω3	VERB	v1pfia---	Mood=Ind|Number=Plur|Person=1|Tense=Fut|Voice=Act	0	root	_	Ref=1419
 6	πρὸς	πρός	ADP	r--------	_	7	case	_	Ref=1419
 7	τόνδ'	ὅδε	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	5	obl:arg	_	Ref=1419
 8	ἔπος	ἔπος	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=1419|SpaceAfter=No
@@ -13394,7 +13394,7 @@
 # sent_id = 872
 # text = οὕτως ἐλέχθη ταῦθ'·
 1	οὕτως	οὕτως	ADV	d--------	_	2	advmod	_	Ref=1442
-2	ἐλέχθη	λέγω	VERB	v3saip---	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	Ref=1442
+2	ἐλέχθη	λέγω3	VERB	v3saip---	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	Ref=1442
 3	ταῦθ'	οὗτος	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	2	nsubj	_	Ref=1442|SpaceAfter=No
 4	·	·	PUNCT	u--------	_	2	punct	_	Ref=1442
 
@@ -13714,13 +13714,13 @@
 
 # sent_id = 891
 # text = λέγω τι;
-1	λέγω	λέγω	VERB	v1spsa---	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=1475
+1	λέγω	λέγω3	VERB	v1spsa---	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=1475
 2	τι	τις	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	1	obj	_	Ref=1475|SpaceAfter=No
 3	;	;	PUNCT	u--------	_	1	punct	_	Ref=1475
 
 # sent_id = 892
 # text = λέγεις·
-1	λέγεις	λέγω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=1476|SpaceAfter=No
+1	λέγεις	λέγω3	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=1476|SpaceAfter=No
 2	·	·	PUNCT	u--------	_	1	punct	_	Ref=1476
 
 # sent_id = 893
@@ -14148,7 +14148,7 @@
 
 # sent_id = 919
 # text = λέξεις, καὶ τότ' εἴσομαι κλύων.
-1	λέξεις	λέγω	VERB	v2sfia---	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Voice=Act	0	root	_	Ref=1519|SpaceAfter=No
+1	λέξεις	λέγω3	VERB	v2sfia---	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Voice=Act	0	root	_	Ref=1519|SpaceAfter=No
 2	,	,	PUNCT	u--------	_	5	punct	_	Ref=1519
 3	καὶ	καί	CCONJ	c--------	_	5	cc	_	Ref=1519
 4	τότ'	τότε	ADV	d--------	_	5	advmod	_	Ref=1519
@@ -14206,7 +14206,7 @@
 4	γὰρ	γάρ	ADV	d--------	PartType=Ptcl	6	advmod	_	Ref=1525
 5	οὐ	οὐ	ADV	d--------	_	6	advmod:neg	_	Ref=1525
 6	φιλῶ	φιλέω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	Ref=1525
-7	λέγειν	λέγω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	6	ccomp	_	Ref=1525
+7	λέγειν	λέγω3	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	6	ccomp	_	Ref=1525
 8	μάτην	μάτην	ADV	d--------	_	7	advmod	_	Ref=1525|SpaceAfter=No
 9	.	.	PUNCT	u--------	_	6	punct	_	Ref=1525
 
