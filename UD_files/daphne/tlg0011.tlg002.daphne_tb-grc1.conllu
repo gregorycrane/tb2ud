@@ -857,7 +857,7 @@
 # text = ἀλλ' ἀμηχάνων ἐρᾷς.
 1	ἀλλ'	ἀλλά	ADV	c--------	_	3	advmod	_	Ref=90
 2	ἀμηχάνων	ἀμήχανος	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	3	obj	_	Ref=90
-3	ἐρᾷς	ἐράω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=90|SpaceAfter=No
+3	ἐρᾷς	ἐράω1	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	Ref=90|SpaceAfter=No
 4	.	.	PUNCT	u--------	_	3	punct	_	Ref=90
 
 # sent_id = 55
@@ -1748,7 +1748,7 @@
 4	μῶρος	μωρός	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=220
 5	ὃς	ὅς	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	Ref=220
 6	θανεῖν	θνήσκω	VERB	v--ana---	VerbForm=Inf|Voice=Act	7	ccomp	_	Ref=220
-7	ἐρᾷ	ἐράω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	acl:relcl	_	Ref=220|SpaceAfter=No
+7	ἐρᾷ	ἐράω1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	acl:relcl	_	Ref=220|SpaceAfter=No
 8	.	.	PUNCT	u--------	_	2	punct	_	Ref=220
 
 # sent_id = 93
@@ -10906,7 +10906,7 @@
 # text = ἀλλ' ὧν ἐρῶ, τοιαῦτα συγκατηυξάμην.
 1	ἀλλ'	ἀλλά	ADV	c--------	_	6	advmod	_	Ref=1336
 2	ὧν	ὅς	PRON	p-p---ng-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	3	obj	_	Ref=1336
-3	ἐρῶ	ἐράω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	5	acl:relcl	_	Ref=1336|SpaceAfter=No
+3	ἐρῶ	ἐράω1	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	5	acl:relcl	_	Ref=1336|SpaceAfter=No
 4	,	,	PUNCT	u--------	_	3	punct	_	Ref=1336
 5	τοιαῦτα	τοιοῦτος	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	6	obj	_	Ref=1336
 6	συγκατηυξάμην	συγκατεύχομαι	VERB	v1saim---	Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Mid	0	root	_	Ref=1336|SpaceAfter=No

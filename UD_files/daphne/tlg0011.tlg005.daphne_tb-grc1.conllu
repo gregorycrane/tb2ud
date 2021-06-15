@@ -2859,7 +2859,7 @@
 2	σῆς	σός	DET	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	6:det	Ref=364
 3	δ'	δέ	ADV	d--------	PartType=Ptcl	5	advmod	5:advmod	Ref=364
 4	οὐκ	οὐ	ADV	d--------	_	5	advmod:neg	5:advmod:neg	Ref=364
-5	ἐρῶ	ἐράω	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	0:root	Ref=364
+5	ἐρῶ	ἐράω1	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	0:root	Ref=364
 6	τιμῆς	τιμή	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	7	obj	7:obj	Ref=364
 7	τυχεῖν	τυγχάνω	VERB	v--ana---	VerbForm=Inf|Voice=Act	5	ccomp	5:ccomp	Ref=364|SpaceAfter=No
 8	,	,	PUNCT	u--------	_	14	punct	14:punct	Ref=364

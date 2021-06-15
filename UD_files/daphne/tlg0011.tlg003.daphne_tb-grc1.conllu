@@ -5690,7 +5690,7 @@
 12	τελεῖσθαι	τελέω	VERB	v--fnm---	Tense=Fut|VerbForm=Inf|Voice=Mid	11	ccomp	_	Ref=686
 13	τοὐμὸν	ἐμός	DET	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	16	det	_	Ref=686
 14	ὧν	ὅς	PRON	p-p---ng-	Case=Gen|Gender=Neut|Number=Plur|PronType=Rel	15	obj	_	Ref=686
-15	ἐρᾷ	ἐράω1	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	12	ccomp	_	Ref=686
+15	ἐρᾷ	ἐράω11	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	12	ccomp	_	Ref=686
 16	κέαρ	κῆρ	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	Ref=686|SpaceAfter=No
 17	.	.	PUNCT	u--------	_	11	punct	_	_
 
